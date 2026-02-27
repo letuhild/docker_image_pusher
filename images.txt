@@ -1,4 +1,4 @@
-apecloud/gaussdb:2.23.01
+opengauss/opengauss:7.0.0-RC2.B015-amd64-openEuler22.03
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
